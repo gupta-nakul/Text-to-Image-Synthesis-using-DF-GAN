@@ -68,8 +68,6 @@ The synthesized images will be saved in `./code/samples/`
 
 ---
 
----
-
 ## Results & Insights
 
 - **Competitive Performance with Fewer Parameters:**  
